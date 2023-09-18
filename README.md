@@ -30,7 +30,7 @@ This program uses regular expressions and Java to evaluate whether a text string
 
 This program uses Java and regular expressions to evaluate whether a text string representative of a phone number matches the format commonly used in Mexico. The typical format of a phone number in Mexico includes an optional area code in parentheses, followed by an optional blank space, followed by a local number and a hyphen (-) followed by an extension number.
 
-# Numtel.java
+# MaquinaEstadoExample.java
 
 # introduction
 
